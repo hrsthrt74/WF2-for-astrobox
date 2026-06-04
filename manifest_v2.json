@@ -9,7 +9,8 @@
       "preview1.png",
       "preview2.png",
       "preview3.png",
-      "preview4.png"
+      "preview4.png",
+      "preview5.png"
     ],
     "icon": "icon.png",
     "cover": "cover.png",
@@ -34,28 +35,44 @@
   ],
   "downloads": {
     "xmb9p": {
-      "version": "1.2",
-      "file_name": "WF2 for 9P v1.2 by hrsthrt74.bin"
+        "version": "1.8",
+      "file_name": "WF2 for 9P v1.8 by hrsthrt74.bin"
     },
     "xmb10": {
-      "version": "1.6",
-      "file_name": "WF2 for Band10 v1.6 by hrsthrt74.bin"
+      "version": "1.8",
+      "file_name": "WF2 for Band10 v1.8 by hrsthrt74.bin"
     },
     "xmb10nfc": {
-      "version": "1.6",
-      "file_name": "WF2 for Band10 v1.6 by hrsthrt74.bin"
+      "version": "1.8",
+      "file_name": "WF2 for Band10 v1.8 by hrsthrt74.bin"
+    },
+    "xmws4": {
+      "version": "1.8",
+      "file_name": "WF2 for S4 v1.8 by hrsthrt74.bin"
+    },
+    "xmws4xring": {
+      "version": "1.8",
+      "file_name": "WF2 for S4 v1.8 by hrsthrt74.bin"
+    },
+    "xmws441": {
+      "version": "1.8",
+      "file_name": "WF2 for S4 v1.8 by hrsthrt74.bin"
+    },
+    "xmws5": {
+      "version": "1.8",
+      "file_name": "WF2 for S5 v1.8 by hrsthrt74.bin"
     },
     "xmrw5": {
-      "version": "1.6",
-      "file_name": "WF2 for RW v1.6 by hrsthrt74.bin"
+      "version": "1.8",
+      "file_name": "WF2 for RW5 v1.8 by hrsthrt74.bin"
     },
     "xmrw6": {
-      "version": "1.6",
-      "file_name": "WF2 for RW v1.6 by hrsthrt74.bin"
+      "version": "1.8",
+      "file_name": "WF2 for RW6 v1.8 by hrsthrt74.bin"
     },
     "xmrw5xring": {
-      "version": "1.6",
-      "file_name": "WF2 for RW v1.6 by hrsthrt74.bin"
+      "version": "1.8",
+      "file_name": "WF2 for RW5 v1.8 by hrsthrt74.bin"
     }
   },
   "ext": {}

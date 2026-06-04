@@ -7,7 +7,8 @@
       "preview1.png",
       "preview2.png",
       "preview3.png",
-      "preview4.png"
+      "preview4.png",
+      "preview5.png"
     ],
     "icon": "icon.png",
     "source_url": "",
@@ -20,28 +21,40 @@
   },
   "downloads": {
     "n67": {
-      "version": "v1.2",
-      "file_name": "WF2 for 9P v1.2 by hrsthrt74.bin"
+      "version": "v1.8",
+      "file_name": "WF2 for 9P v1.8 by hrsthrt74.bin"
     },
     "o66": {
-      "version": "v1.6",
-      "file_name": "WF2 for Band10 v1.6 by hrsthrt74.bin"
+      "version": "v1.8",
+      "file_name": "WF2 for Band10 v1.8 by hrsthrt74.bin"
     },
     "o66nfc": {
-      "version": "v1.6",
-      "file_name": "WF2 for Band10 v1.6 by hrsthrt74.bin"
+      "version": "v1.8",
+      "file_name": "WF2 for Band10 v1.8 by hrsthrt74.bin"
+    },
+    "o62": {
+      "version": "v1.8",
+      "file_name": "WF2 for S4 v1.8 by hrsthrt74.bin"
+    },
+    "o62m": {
+      "version": "v1.8",
+      "file_name": "WF2 for S4 v1.8 by hrsthrt74.bin"
+    },
+    "p62": {
+      "version": "v1.8",
+      "file_name": "WF2 for S5 v1.8 by hrsthrt74.bin"
     },
     "o65": {
-      "version": "v1.6",
-      "file_name": "WF2 for RW v1.6 by hrsthrt74.bin"
+      "version": "v1.8",
+      "file_name": "WF2 for RW5 v1.8 by hrsthrt74.bin"
     },
     "p65": {
-      "version": "v1.6",
-      "file_name": "WF2 for RW v1.6 by hrsthrt74.bin"
+      "version": "v1.8",
+      "file_name": "WF2 for RW6 v1.8 by hrsthrt74.bin"
     },
     "o65m": {
-      "version": "v1.6",
-      "file_name": "WF2 for RW v1.6 by hrsthrt74.bin"
+      "version": "v1.8",
+      "file_name": "WF2 for RW5 v1.8 by hrsthrt74.bin"
     }
   }
 }
